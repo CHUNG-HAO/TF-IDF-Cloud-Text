@@ -1,6 +1,10 @@
 # tf-idf-python-視覺化
 ## 前言
 我相信很多人喜歡聽歌，但是有沒有想過這些歌手的歌詞都喜歡用些甚麼?我有這個疑問，所以做了這個專案讓各位一看就知道這位歌手主要甚麼單字出現的頻率比較高。
+
+# 架構
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/67829896/194298931-a4869fd3-1008-4716-ba0a-1fbbc5bc3fb9.png">
+
 # 詞頻（term frequency，tf）
 <img width="506" alt="image" src="https://user-images.githubusercontent.com/67829896/194294119-7558f55d-8554-4065-a790-1a59cc729f21.png">
 
