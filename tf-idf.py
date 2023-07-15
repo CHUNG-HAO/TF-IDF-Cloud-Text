@@ -82,7 +82,7 @@ for i,words in enumerate(words_frequency):
 path = ["images/JayChou.png","images/JayJay.png","images/Mayday.png"]
 for i,tf_idf in enumerate(all_tf_idf):
     WordCloud(collocations=False,
-                font_path="C:\Windows\Fonts\msjhbd.ttc", # 字體設定(是中文一定要設定，否則會是亂碼)
+                font_path="/Users/zhonghonghao/tf-idf-cloud-text/genkai-mincho.ttf", # 字體設定(是中文一定要設定，否則會是亂碼)
                 #font_path='NotoSansCJKjp-Black.otf',  字體設定(是中文一定要設定，否則會是亂碼)
                 width=600, # 圖片寬度
                 height=600,  # 圖片高度
