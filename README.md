@@ -1,4 +1,6 @@
 # tf-idf-python-視覺化
+# 相關介紹
+
 ## 前言
 我相信很多人喜歡聽歌，但是有沒有想過這些歌手的歌詞都喜歡用些甚麼?我有這個疑問，所以做了這個專案讓各位一看就知道這位歌手主要甚麼單字出現的頻率比較高。
 
@@ -38,7 +40,10 @@
 <img width="648" alt="image" src="https://user-images.githubusercontent.com/67829896/194295502-17473957-f1fa-4839-a5e7-e67b94e81bd1.png">
 
 ## 結果
-<img width="348" alt="image" src="https://user-images.githubusercontent.com/67829896/194295623-74ee4851-900b-4413-a9eb-566043acc075.png">
-<img width="349" alt="image" src="https://user-images.githubusercontent.com/67829896/194295676-0d6db762-0a1f-4a3e-b90b-aab236ab8d30.png">
-<img width="349" alt="image" src="https://user-images.githubusercontent.com/67829896/194295719-b7d2a6ba-e795-4dd4-982f-c6ce9c54c71d.png">
+![JayChou](https://github.com/chris911024/tf-idf-cloud-text/assets/67829896/99e3e16c-8b08-402a-a3f9-ecaa15183ddb)
+
+![JayJay](https://github.com/chris911024/tf-idf-cloud-text/assets/67829896/f494d06b-2d6d-4541-aaed-c3bd08c88983)
+
+![Mayday](https://github.com/chris911024/tf-idf-cloud-text/assets/67829896/a105d689-b2cc-4b37-ad0a-6569b7c10138)
+
 
