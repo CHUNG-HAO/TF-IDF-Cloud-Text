@@ -21,7 +21,7 @@ class WordSegment:
         for stop_words_file in self.stop_words_path:
             with open(stop_words_file,encoding = 'UTF-8') as file:
                 self.stop_words = self.stop_words | set(map(str.strip,file.readlines()))
-
+                
     def remove_stop_words(self):
         # 去除繁體中文以外的英文、數字、符號
         rule = re.compile(r"[^\u4e00-\u9fa5]")
