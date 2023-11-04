@@ -1,4 +1,10 @@
-# tf-idf-python-視覺化
+# TF-IDF-Cloud-Text
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/chris911024/TF-IDF-Cloud-Text?style=flat&label=Stars)](https://github.com/chris911024/TF-IDF-Cloud-Text/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/chris911024/TF-IDF-Cloud-Text?style=flat&label=Forks)](https://github.com/chris911024/TF-IDF-Cloud-Text/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/chris911024/TF-IDF-Cloud-Text?style=flat&label=Issues)](https://github.com/chris911024/TF-IDF-Cloud-Text/issues)
+
 # 相關介紹
 https://github.com/chris911024/tf-idf-cloud-text/blob/main/以TF-IDF演算法實作熱門歌手之歌詞分析.pdf
 ## 前言
